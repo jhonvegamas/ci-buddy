@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
 			echo "Hello world it is my first pipeline :D";
+			echo "Funciono la tuberia";
         ?>
     </body>
 </html>
