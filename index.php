@@ -10,8 +10,7 @@ and open the template in the editor.
         <title>Prueba Pipeline</title>
     </head>
     <body>
-        <?php
-			echo "Hello world it is my first pipeline :D";
+        <?php			
 			echo "Funciono la tuberia";
         ?>
     </body>
