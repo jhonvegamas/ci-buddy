@@ -10,6 +10,8 @@ script:
     - './vendor/bin/phpunit tests'
     
 after_success: 
+  - git clone https://github.com/jhonvegamas/ci-buddy.git
+  - cd ci-buddy
   - git config --global user.email "jhonvegamas@gmail.com"
   - git config --global user.name "jhonvegamas"
   - git checkout master
