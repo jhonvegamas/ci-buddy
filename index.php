@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php			
-			echo "Funciono la tuberia";
+			echo "Funciono la tuberia con la configuración nueva";
         ?>
     </body>
 </html>
