@@ -10,8 +10,6 @@ and open the template in the editor.
         <title>Prueba Pipeline</title>
     </head>
     <body>
-        <?php			
-			echo "Funciono la tuberia con la configuración nueva";
-        ?>
+        <h1>Pipeline funcionando 100%</h1>
     </body>
 </html>
