@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Pipeline funcionando 100%</h1>
+		<h2>Subtitulo</h2>
     </body>
 </html>
