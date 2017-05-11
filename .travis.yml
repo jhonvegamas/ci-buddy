@@ -23,8 +23,7 @@ after_success:
   - git push origin master 
   
 notifications:
-  slack: 'jhonvegamas:$PASS'
-    
+
   email:
     recipients:
     - jhonvegamas@hotmail.com    
